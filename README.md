@@ -30,7 +30,7 @@ Campos principais:
 
 observacoes: campo livre para anotações gerais.
 
-🧩 Um cliente pode ter vários pedidos associados.
+Um cliente pode ter vários pedidos associados.
 
 # Motorista
 
